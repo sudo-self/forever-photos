@@ -15,4 +15,4 @@ To run this project locally, run the following code in terminal.
    npm start
 
    ```
-
+<a href="http://localhost:3000/">http://localhost:3000</a>
